@@ -1,0 +1,5 @@
+﻿#Thằng nào lấy tool tao edit source là bể đầu
+
+hướng dẫn :
+ mở cloud gg shell lên upload file install.py lên rồi nhập lệnh python3 install.py
+ đợi chạy xong thì nhập lệnh : python3 nt.py là vào tool.
